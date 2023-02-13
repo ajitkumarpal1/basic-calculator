@@ -12,3 +12,7 @@ It's a basic calculator using Angular bootstrap and typescript.
 2.Open Terminal or CMD and run the command 'npm install'.
 
 3.Then run the command 'ng serve --open' or 'ng s --o'.
+
+here is the link of live project
+
+https://github-uitkgy-zw7duw.stackblitz.io
